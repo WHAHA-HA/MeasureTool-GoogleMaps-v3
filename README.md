@@ -13,9 +13,9 @@ A mobile friendly measure tool for Google Maps JS API v3.
 
 
 ## Demo
-[Visit demo page](https://zhenyanghua.github.com/MeasureTool-GoogleMaps-V3)
+[Visit demo page](https://BohdanFiliuk.github.com/MeasureTool-GoogleMaps-V3)
 
-![demo screen shot](https://raw.githubusercontent.com/zhenyanghua/MeasureTool-GoogleMaps-V3/master/demo.jpg)
+![demo screen shot](https://raw.githubusercontent.com/BohdanFiliuk/MeasureTool-GoogleMaps-V3/master/demo.jpg)
 
 ## User usage
 1. To **start** measuring, *right click* the map and choose **Measure distance**.
@@ -36,6 +36,6 @@ A mobile friendly measure tool for Google Maps JS API v3.
   - iOS Safari
     
 ## Documentations
-- [Change List](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3/blob/master/docs/CHANGES.md)
-- [Developer Guide](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3/blob/master/docs/GUIDE.md)
-- [API Reference](https://github.com/zhenyanghua/MeasureTool-GoogleMaps-V3/blob/master/docs/REFERENCE.md)
+- [Change List](https://github.com/BohdanFiliuk/MeasureTool-GoogleMaps-V3/blob/master/docs/CHANGES.md)
+- [Developer Guide](https://github.com/BohdanFiliuk/MeasureTool-GoogleMaps-V3/blob/master/docs/GUIDE.md)
+- [API Reference](https://github.com/BohdanFiliuk/MeasureTool-GoogleMaps-V3/blob/master/docs/REFERENCE.md)
